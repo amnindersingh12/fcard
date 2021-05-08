@@ -1,4 +1,4 @@
-# fscard
+# fcard
 
 A Simple Flutter application that contain some weird information.
 
