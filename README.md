@@ -1,6 +1,7 @@
 # fcard
 
 A Simple Flutter application that contain some weird information.
+- [Link to the Application](https://github.com/amnindersingh12/fcard/blob/master/app-release.apk)
 
 ## Getting Started
 
